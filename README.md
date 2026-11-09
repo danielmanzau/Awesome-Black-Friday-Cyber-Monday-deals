@@ -73,7 +73,7 @@ Add it to your website, README, or launch post:
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (15) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (2) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (11) - Tailwind/React components, Figma kits, icons, themes, animations
-* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (2) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
+* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (3) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (19) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (10) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (2) - Pentesting, threat monitoring, encrypted email & files, privacy tools
